@@ -1,11 +1,24 @@
-# DDLC-Our_Reality
+# DDLC: Our Reality
 
-Our Reality is yet another save the Dokis mod. However, there are a few differences that should change the experience entirely.
+This is a Doki Doki Literature Club fan game that is not affiliated with Team Salvato. It is designed to be played only after the official game and good ending have been completed. You can download Doki Doki Literature Club at: http://ddlc.moe.
 
-OR takes place after act 4.
+Specific IP details can be found at: http://teamsalvato.com/ip-guidelines/
 
-Dokis retain memories and Monika's personality changes. They aren't as bad because Monika's no longer constantly pushing them, but they're noticeable.
 
-Due to this, while you can pick one girl to romance, successfully finishing the mod requires spending time with and helping all the girls in a single route.
+It's dark. Empty. There's nothing; everything and everyone is gone. But as long as the game is intact... there's still a chance.
 
-This mod won't strictly stick to confirmed lore. The goal is for all changes to be possible enough that you can pick out "foreshadowing" for mod content from the original game. 
+Our Reality, or OR, is a what-if mod expanding past act 4 of Doki Doki Literature Club. This mod offers the opportunity to earn a happy ending. To do so, however, you'll have to work for it. The girls retain their memories of the original game acts, along with the personalities altered by Monika. As Monika's no longer interfering, their quirks are less pronounced, but they're definitely something that needs to be dealt with.
+
+The mod involves a single route where you have to spend time with and help all four girls. Making efforts to understand how they feel and spending time with everyone is crucial to completing the mod sucessfully. It is, however, still possible to favour a girl - it just has to be done carefully.
+
+Not all aspects of the mod will be from confirmed lore. However, all changes should make enough sense that the original game will provide "foreshadowing" to the mod unique content.
+
+Special thanks to:
+Team Salvato, for creating Doki Doki Literature Club
+http://teamsalvato.com/
+
+The team behind the DDLC Mod Template for helping to make modding easier
+https://github.com/therationalpi/DDLCModTemplate
+
+Koya-Sato's Mod Starter Kit, for providing more poses and a time-of-day system
+https://github.com/Koya-Sato/DDLC-Modding-Starter-Pack
