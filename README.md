@@ -4,9 +4,6 @@ This is a Doki Doki Literature Club fan game that is not affiliated with Team Sa
 
 Specific IP details can be found at: http://teamsalvato.com/ip-guidelines/
 
-
-It's dark. Empty. There's nothing; everything and everyone is gone. But as long as the game is intact... there's still a chance.
-
 Our Reality, or OR, is a what-if mod expanding past act 4 of Doki Doki Literature Club. This mod offers the opportunity to earn a happy ending. To do so, however, you'll have to work for it. The girls retain their memories of the original game acts, along with the personalities altered by Monika. As Monika's no longer interfering, their quirks are less pronounced, but they're definitely something that needs to be dealt with.
 
 The mod involves a single route where you have to spend time with and help all four girls. Making efforts to understand how they feel and spending time with everyone is crucial to completing the mod sucessfully. It is, however, still possible to favour a girl - it just has to be done carefully.
