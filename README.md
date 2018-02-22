@@ -19,3 +19,11 @@ https://github.com/therationalpi/DDLCModTemplate
 
 Koya-Sato's Mod Starter Kit, for providing more poses and a time-of-day system
 https://github.com/Koya-Sato/DDLC-Modding-Starter-Pack
+
+Contact me at:
+Email:
+  dracojustin@gmail.com
+Discord:
+  @dracodraco100#8616
+Reddit:
+  /u/dracodraco100
