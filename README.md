@@ -1,6 +1,6 @@
 # DDLC: Our Reality
 
-Discord channel for the mod: https://discord.gg/bjUjEpU
+Discord channel for the mod: https://discord.gg/sCSeqTP
 
 This is a Doki Doki Literature Club fan game that is not affiliated with Team Salvato. It is designed to be played only after the official game and good ending have been completed. You can download Doki Doki Literature Club at: http://ddlc.moe.
 
