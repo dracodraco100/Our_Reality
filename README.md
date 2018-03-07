@@ -1,5 +1,7 @@
 # DDLC: Our Reality
 
+Discord channel for the mod: https://discord.gg/sCSeqTP
+
 This is a Doki Doki Literature Club fan game that is not affiliated with Team Salvato. It is designed to be played only after the official game and good ending have been completed. You can download Doki Doki Literature Club at: http://ddlc.moe.
 
 Specific IP details can be found at: http://teamsalvato.com/ip-guidelines/
@@ -19,3 +21,11 @@ https://github.com/therationalpi/DDLCModTemplate
 
 Koya-Sato's Mod Starter Kit, for providing more poses and a time-of-day system
 https://github.com/Koya-Sato/DDLC-Modding-Starter-Pack
+
+Contact me at:
+Email:
+  dracojustin@gmail.com
+Discord:
+  @dracodraco100#8616
+Reddit:
+  /u/dracodraco100
