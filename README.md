@@ -1,4 +1,4 @@
-# DDLC: Our Reality
+# A Doki Doki Literature Club Mod: Our Reality
 
 Discord channel for the mod: https://discord.gg/sCSeqTP
 
